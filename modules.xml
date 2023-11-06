@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLiteDb.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLiteDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteDb.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
